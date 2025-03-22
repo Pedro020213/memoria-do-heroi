@@ -1,5 +1,5 @@
 # Jogo de Memória 🧠
-
+https://pedro020213.github.io/memoria-do-heroi/
 Este é um simples e divertido **jogo de memória** desenvolvido utilizando **JavaScript**, **HTML** e **CSS**. O objetivo do jogo é testar sua memória enquanto tenta encontrar todos os pares de cartas.
 
 ## Como Jogar 🎮
